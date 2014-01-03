@@ -1,0 +1,9 @@
+.DS_Store
+.cache
+*.ebuild~
+
+metadata/cache/
+metadata/md5-cache/
+profiles/use.local.desc
+
+sets.conf
