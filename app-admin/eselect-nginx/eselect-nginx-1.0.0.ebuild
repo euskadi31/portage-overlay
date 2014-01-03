@@ -13,7 +13,7 @@ KEYWORDS="~alpha ~amd64 ~arm ~hppa ~ia64 ~mips ~ppc ~ppc64 ~s390 ~sh ~sparc ~x86
 IUSE=""
 
 RDEPEND=">=app-admin/eselect-1.2.4
-        !<www-servers/nginx"
+        !<www-servers/nginx-1.4.1"
 
 S="${WORKDIR}"
 
